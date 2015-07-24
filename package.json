@@ -1,0 +1,23 @@
+{
+  "name": "xwechat",
+  "version": "1.0.0",
+  "description": "wechat for sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "summerdb",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "redis": "^0.12.1",
+    "xml2js": "^0.4.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://172.16.100.22/xiaxiaokang/xwechat.git"
+  }
+}
