@@ -1,2 +1,2 @@
-# xwechat
+# X-Wechat
 wechat sdk
